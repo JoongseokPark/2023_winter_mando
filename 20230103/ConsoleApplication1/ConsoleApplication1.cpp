@@ -1,6 +1,7 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <windows.h>
 
 int dice_roll();
 int betting(int left);
@@ -47,6 +48,8 @@ int main()
 
 		(C_dice == dice) ? printf("승리 ,") : printf("패배 ,");
 		printf("C의 남은 판돈 = %d\n\n", wallet[2]);
+		
+		Sleep(2000);
 	}
 
 }
