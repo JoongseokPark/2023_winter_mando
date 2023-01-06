@@ -1,0 +1,3 @@
+﻿  20230106_score_calculate_pjs.cpp
+E:\2023_mando_jsp\20230106_score_calculate_pjs\20230106_score_calculate_pjs\20230106_score_calculate_pjs.cpp(67,6): warning C4101: 'locate' :참조되지 않은 지역 변수입니다.
+  20230106_score_calculate_pjs.vcxproj -> E:\2023_mando_jsp\20230106_score_calculate_pjs\x64\Debug\20230106_score_calculate_pjs.exe
